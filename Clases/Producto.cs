@@ -6,16 +6,12 @@ using System.Threading.Tasks;
 
 namespace Clases
 {
-    public class Compartimientos
+    public class Producto
     {
+        public TipoProducto Tipo { get; set; }
+        public string Marca { get; set; }
+        public string Nombre { get; set; }
+        public string Codigo { get; set; }
         public Ubicacion Ubicacion { get; set; }
-
-        public Productos Productos
-        {
-            get => default(Productos);
-            set
-            {
-            }
-        }
     }
 }

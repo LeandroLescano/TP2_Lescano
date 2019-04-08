@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Clases
 {
-    public class Ubicacion
+    public class Zorra
     {
-        public Compartimiento Compartimiento { get; set; }
+        public string Codigo { get; set; }       
     }
 }

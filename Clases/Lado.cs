@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace Clases
 {
-    public class Cargo
+    public class Lado
     {
-        public string Nombre { get; set; }
-        public Horario Horario { get; set; }
-
+        public Compartimiento Compartimientos { get; set; }
     }
 }

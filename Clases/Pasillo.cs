@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Clases
 {
-    public class Productos
+    public class Pasillo
     {
+        public Lado LadoDerecho { get; set; }
+        public Lado LadoIzquierdo { get; set; }
     }
 }

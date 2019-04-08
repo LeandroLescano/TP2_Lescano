@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace Clases
 {
-    public class Ubicacion
+    public class Sector
     {
-        public Compartimiento Compartimiento { get; set; }
+        public Pasillo Pasillos { get; set; }
+        public Supervisor Supervisor { get; set; }
     }
 }

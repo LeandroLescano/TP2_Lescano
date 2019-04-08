@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace Clases
 {
-    public class Ubicacion
+    public class Empleado : Persona
     {
-        public Compartimiento Compartimiento { get; set; }
+        public int Sueldo { get; set; }
+        public Horario Horario { get; set; }
     }
 }
