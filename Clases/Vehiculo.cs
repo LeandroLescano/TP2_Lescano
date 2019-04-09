@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Clases
 {
-    class Repositor : Empleado
+    public class Vehiculo
     {
-        public Zorra ZorraAsignada { get; set; }
+        public int Ruedas { get; set; }
 
     }
 }

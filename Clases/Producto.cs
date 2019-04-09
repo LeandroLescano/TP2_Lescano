@@ -13,5 +13,13 @@ namespace Clases
         public string Nombre { get; set; }
         public string Codigo { get; set; }
         public Ubicacion Ubicacion { get; set; }
+
+        public Compartimiento Compartimiento
+        {
+            get => default(Compartimiento);
+            set
+            {
+            }
+        }
     }
 }

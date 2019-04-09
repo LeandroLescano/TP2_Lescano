@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace Clases
 {
-    public class Clarkista : Empleado
+    public class Proveedor : Persona
     {
-        public Clark Clark { get; set; }
     }
 }

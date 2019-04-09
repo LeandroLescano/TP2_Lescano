@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Clases
 {
-    public class Clark
+    public class Clark : Vehiculo
     {
         public string Codigo { get; set; }
     }

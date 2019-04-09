@@ -10,5 +10,13 @@ namespace Clases
     {
         public Lado LadoDerecho { get; set; }
         public Lado LadoIzquierdo { get; set; }
+
+        public Deposito Deposito
+        {
+            get => default(Deposito);
+            set
+            {
+            }
+        }
     }
 }
