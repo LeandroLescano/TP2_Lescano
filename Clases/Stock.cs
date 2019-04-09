@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Clases
 {
-    public class Supervisor : Empleado
+    public class Stock
     {
+        public Producto Producto { get; set; }
+        public int Cantidad { get; set; }
     }
 }

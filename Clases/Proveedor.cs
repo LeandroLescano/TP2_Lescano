@@ -8,5 +8,6 @@ namespace Clases
 {
     public class Proveedor : Persona
     {
+        public string Codigo { get; set; }
     }
 }

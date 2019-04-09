@@ -8,7 +8,6 @@ namespace Clases
 {
     public class Vehiculo
     {
-        public int Ruedas { get; set; }
-
+        public string Patente { get; set; }
     }
 }

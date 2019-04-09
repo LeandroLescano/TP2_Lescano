@@ -1,0 +1,5 @@
+C:\Users\Tateh\Desktop\Repos Git\TP2_Lescano\Clases\bin\Debug\Clases.dll
+C:\Users\Tateh\Desktop\Repos Git\TP2_Lescano\Clases\bin\Debug\Clases.pdb
+C:\Users\Tateh\Desktop\Repos Git\TP2_Lescano\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\Tateh\Desktop\Repos Git\TP2_Lescano\Clases\obj\Debug\Clases.dll
+C:\Users\Tateh\Desktop\Repos Git\TP2_Lescano\Clases\obj\Debug\Clases.pdb

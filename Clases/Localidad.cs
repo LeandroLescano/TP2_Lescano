@@ -8,5 +8,7 @@ namespace Clases
 {
     public class Localidad
     {
+        public string Nombre { get; set; }
+        public string CodigoPostal { get; set; }
     }
 }

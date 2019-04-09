@@ -8,15 +8,8 @@ namespace Clases
 {
     public class Pasillo
     {
+        public Cliente Propietario { get; set; }
         public Lado LadoDerecho { get; set; }
         public Lado LadoIzquierdo { get; set; }
-
-        public Deposito Deposito
-        {
-            get => default(Deposito);
-            set
-            {
-            }
-        }
     }
 }

@@ -8,6 +8,6 @@ namespace Clases
 {
     public class Clark : Vehiculo
     {
-        public string Codigo { get; set; }
+        public string Color { get; set; }
     }
 }

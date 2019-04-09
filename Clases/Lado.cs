@@ -8,6 +8,7 @@ namespace Clases
 {
     public class Lado
     {
+        public Cliente Propietario { get; set; }
         public Compartimiento Compartimientos { get; set; }
     }
 }

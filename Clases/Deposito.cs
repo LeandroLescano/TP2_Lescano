@@ -9,6 +9,7 @@ namespace Clases
     public class Deposito
     {
         public string Nombre { get; set; }
+        public string Direccion { get; set; }
         public Localidad Localidad { get; set; }
         public Sector Sectores { get; set; }
         public Empleado Empleados { get; set; }

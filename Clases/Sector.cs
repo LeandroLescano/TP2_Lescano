@@ -9,6 +9,5 @@ namespace Clases
     public class Sector
     {
         public Pasillo Pasillos { get; set; }
-        public Supervisor Supervisor { get; set; }
     }
 }
