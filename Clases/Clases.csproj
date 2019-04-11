@@ -61,5 +61,8 @@
     <Compile Include="Ubicacion.cs" />
     <Compile Include="Vehiculo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Diagrama de clases.cd" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

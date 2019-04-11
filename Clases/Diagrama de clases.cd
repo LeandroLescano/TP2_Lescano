@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Clases.Vehiculo" Collapsed="true">
+    <Position X="3" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Vehiculo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clases.Clark" Collapsed="true">
+    <Position X="3" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Clark.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clases.Cliente" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clases.Compartimiento" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Compartimiento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clases.Deposito" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABgAAAAAAAAACAAgAAAAAAAAAAAAABAAAAAAgA=</HashCode>
+      <FileName>Deposito.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clases.Empleado" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAgAAABAAAAQAAAAAA=</HashCode>
+      <FileName>Empleado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clases.Horario" Collapsed="true">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Horario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clases.Lado" Collapsed="true">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Lado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clases.Localidad" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Localidad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clases.Pasillo" Collapsed="true">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Pasillo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clases.Pedido" Collapsed="true">
+    <Position X="11.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAQACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pedido.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clases.Persona" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAEAEAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Persona.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clases.Producto" Collapsed="true">
+    <Position X="13" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAQAAAAAAAAAAgIAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Producto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clases.Proveedor" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Proveedor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clases.Sector" Collapsed="true">
+    <Position X="7.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clases.Stock" Collapsed="true">
+    <Position X="9.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Stock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clases.TipoProducto" Collapsed="true">
+    <Position X="11.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TipoProducto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clases.Ubicacion" Collapsed="true">
+    <Position X="13" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ubicacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
